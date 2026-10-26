@@ -10,6 +10,7 @@
   <a href="https://mahesh-dev-zeta.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-mahesh--dev--zeta.vercel.app-0b0d14?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mahesh-kumar-dev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:MK766263@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-MK766263@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="./Mahesh-Kumar-Resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-Download_PDF-1d4ed8?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
   <a href="https://wa.me/919315105191"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Chat-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
@@ -119,4 +120,4 @@ Numbers are counted from the code base. The stack includes Razorpay payments wit
 
 ## Get in touch
 
-If you have a website, an app or an admin tool to build, or a role to fill, message me on [WhatsApp](https://wa.me/919315105191), email [MK766263@gmail.com](mailto:MK766263@gmail.com), or connect on [LinkedIn](https://www.linkedin.com/in/mahesh-kumar-dev). More of my work is at [mahesh-dev-zeta.vercel.app](https://mahesh-dev-zeta.vercel.app).
+If you have a website, an app or an admin tool to build, or a role to fill, message me on [WhatsApp](https://wa.me/919315105191), email [MK766263@gmail.com](mailto:MK766263@gmail.com), connect on [LinkedIn](https://www.linkedin.com/in/mahesh-kumar-dev), or [download my resume](./Mahesh-Kumar-Resume.pdf). More of my work is at [mahesh-dev-zeta.vercel.app](https://mahesh-dev-zeta.vercel.app).
